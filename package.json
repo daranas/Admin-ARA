@@ -13,6 +13,7 @@
   },
   "homepage": "https://github.com/daranas/Unstyled-Ecommerce-Templates#readme",
   "dependencies": {
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "jquery": "^1.12.4"
   }
 }
