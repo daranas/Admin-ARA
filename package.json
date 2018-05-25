@@ -1,0 +1,18 @@
+{
+  "name": "unstyled-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daranas/Unstyled-Ecommerce-Templates.git"
+  },
+  "author": "DaranaSV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daranas/Unstyled-Ecommerce-Templates/issues"
+  },
+  "homepage": "https://github.com/daranas/Unstyled-Ecommerce-Templates#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
