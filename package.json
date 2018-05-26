@@ -7,13 +7,15 @@
     "url": "git+https://github.com/daranas/Unstyled-Ecommerce-Templates.git"
   },
   "author": "DaranaSV",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/daranas/Unstyled-Ecommerce-Templates/issues"
   },
   "homepage": "https://github.com/daranas/Unstyled-Ecommerce-Templates#readme",
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "jquery": "^1.12.4"
+    "jquery": "^1.12.4",
+    "material-design-iconic-font": "^2.2.0",
+    "metismenu": "^2.7.7"
   }
 }
